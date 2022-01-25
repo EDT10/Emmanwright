@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel (@Emmanwright)
-- 👀 I’m interested in learning web application development. I also have a networking background
-- 🌱 I’m currently learning java to build desktop and web applications
+- 👀 I’m interested in DevOPS. I also have a extensive networking background.
+- 🌱 I’m currently learning all things devops
 - 💞️ I’m looking to collaborate on any open source project to improve my programming skills
 - 📫 How to reach me linkedin.com/in/emmanuel-wright-10 
 
